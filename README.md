@@ -77,7 +77,7 @@ WE helps you discover the best plants for your space
 We delivers them to your door and helps you look after them.
 ### Point three:
  We source directly from top-rated growers, so we can sell the finest quality plants at the very best prices
- ###point four:
- If you need advice, just get in touch - we’ll be your personal plant gurus as long as you need us. If something’s up, tell us within 30 days of delivery — we’ll sort it.
- ###point five:
+###point four:
+ If you need advice, just get in touch - we’ll be your personal plant gurus as long as you need us. If something’s up, tell us within 30 days of delivery — we’ll sort it
+###point five:
 This project is for Save world and Make world Green
