@@ -68,10 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
-###Product Analysis Website
-Live site Link:
+### `Product Analysis Website`
+[www.google.com](www.google.com)
 
-Project name:Save the planet
+### Special notes about this project
+### Project name:
+Save the planet
 
 We want people to save World.
 ### point one:
