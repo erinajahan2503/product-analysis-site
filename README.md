@@ -3,7 +3,7 @@ Live site:[www.google.com](www.google.com)
 
 ### Special notes about this project
 ### Project name:
-Save the planet
+* Save the planet
 
 We want people to save World.
 ### point one:
@@ -16,7 +16,7 @@ We want people to save World.
 * We source directly from top-rated growers, so we can sell the finest quality plants at the very best prices
  
 ### Point four:
-If you need advice, just get in touch - we’ll be your personal plant gurus as long as you need us. If something’s up, tell us within 30 days of delivery — we’ll sort it.
+* If you need advice, just get in touch - we’ll be your personal plant gurus as long as you need us. If something’s up, tell us within 30 days of delivery — we’ll sort it.
  
 ### Point five:
-This project is for Save world and Make world Green
+* This project is for Save world and Make world Green
