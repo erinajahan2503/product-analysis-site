@@ -1,0 +1,13 @@
+.rechart {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.chart {
+    color: rgb(145, 145, 233);
+
+
+    margin-top: 2vmin;
+    margin-left: 20vmin;
+
+}
