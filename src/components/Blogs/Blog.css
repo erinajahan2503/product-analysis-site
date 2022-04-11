@@ -3,6 +3,14 @@
 
 }
 
+.context-note {
+    margin-left: 20px;
+}
+
 .semantic-element {
     text-align: center;
+}
+
+.semantic-note {
+    margin-left: 20px;
 }

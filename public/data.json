@@ -2,7 +2,7 @@
     {
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolmvvtqVYCYZAAbBwrTF7i--It2XHpGGYXg&usqp=CAU",
         "id": "1",
-        "name": "Maria Brar reviewed Plant care",
+        "name": "Albert reviewed Plant care",
         "description": "Excellent service",
         "ratings": 5.00
     },
@@ -16,28 +16,28 @@
     {
         "img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "id": "3",
-        "name": "Maria Brar reviewed Plant care",
+        "name": "Anna Marie reviewed Plant care",
         "description": "Beautiful healthy plants.",
         "ratings": 4.50
     },
     {
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnuUH6UoJirybmPeg0QZk6p8ZxSIUclRikTQ&usqp=CAU",
         "id": "4",
-        "name": "Maria Brar reviewed Plant care",
+        "name": "Ariana Grande reviewed Plant care",
         "description": "Quality plants. Good selection of indoor plants.",
         "ratings": 5.00
     },
     {
         "img": "https://media.istockphoto.com/photos/headshot-of-gorgeous-young-woman-with-eyeglasses-picture-id1041040320?k=20&m=1041040320&s=612x612&w=0&h=c9-q01Q9uK-BdAmLW_TkVw2URwzapQrxUcgrM768QrE=",
         "id": "5",
-        "name": "Maria Brar reviewed Plant care",
+        "name": "David Jhon reviewed Plant care",
         "description": "Beautiful healthy plants.",
         "ratings": 4.50
     },
     {
         "img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "id": "6",
-        "name": "Maria Brar reviewed Plant care",
+        "name": "Sofhied  reviewed Plant care",
         "description": "Fabulous !",
         "ratings": 4.50
     }

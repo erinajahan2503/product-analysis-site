@@ -1,18 +1,35 @@
 .full-home {
     display: grid;
-    grid-template-columns: 6fr 1fr;
+    grid-template-columns: 3fr 1fr;
 }
 
 
 .plant-img {
-    margin-top: 5px;
-    width: 600px;
-    height: 300px;
+    margin-top: 50px;
+    width: 550px;
+    height: 600px;
     margin-right: 50px;
 }
 
+.demo-btn {
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 70px;
+    margin-top: 0;
+    border: 2px solid #43b97f;
+    border-radius: 15px;
+    border-width: 5px;
+    padding: 0px 20px;
+}
+
+.demo-btn:hover {
+    background-color: #6ac085;
+
+}
+
 .head-1 {
-    font-size: 3rem;
+    /* font-size: 3rem; */
+    font-size: 48px;
     text-align: center;
     color: #1e813f;
 }
@@ -20,21 +37,24 @@
 .paragraph {
     margin: 0px 70px;
     font-weight: 200;
-    font-size: 1.5rem;
+    font-size: 30px;
+    font-weight: 600;
+    /* font-size: 1.5rem; */
     color: #154725;
 
 }
 
 .btn {
-    margin-left: 50em;
+    margin-top: 25px;
+    margin-left: 800px;
     border: 5px solid #43B97F;
-    font-size: 1em;
-    fill: #1e813f;
+    font-size: 16px;
     border-radius: 20px;
-    padding: 0em 2em;
+    padding: 15px 40px;
+}
 
-
-
+.btn:hover {
+    background-color: #6ac085;
 }
 
 .Creview {

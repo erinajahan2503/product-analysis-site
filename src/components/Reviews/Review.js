@@ -1,21 +1,14 @@
-import React, { useEffect, useState } from 'react';
 import Reviewdata from '../ReviewData/Reviewdata';
 import './Review.css'
+import useReviewData from '../../hooks/useReviewData';
 const Review = () => {
-    const [data, setData] = useState([]);
-    useEffect(() => {
-        fetch('data.json')
-            .then(res => res.json())
-            .then(data => setData(data))
+    const [data] = useReviewData();
 
-    }, [])
     return (
         <div className='review-section'>
             <h1 className='see-all'>See All Review(6)</h1>
             <div className='start-review'>
-
                 {
-
                     data.map(data => <Reviewdata
                         key={data.id}
                         data={data}>
