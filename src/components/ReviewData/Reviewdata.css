@@ -1,0 +1,52 @@
+.review-bar {
+    margin-top: 5px;
+    margin-left: 40px;
+}
+
+.review {
+    width: 500px;
+    height: 550px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    position: relative;
+}
+
+.review img {
+    width: 450px;
+    height: 320px;
+    margin: 15px 30px;
+}
+
+.review-details {
+    margin: 0 14px;
+}
+
+.review-details p {
+    margin-bottom: 0;
+}
+
+.reviewer-name {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    margin-top: 7px;
+
+}
+
+.review-btn {
+    width: 100%;
+    background: #44aa79;
+    border: none;
+    border-radius: 0px 0px 8px 8px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.review-btn:hover {
+    background-color: rgb(82, 182, 82);
+}

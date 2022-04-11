@@ -2,6 +2,8 @@ import React from 'react';
 import './Home.css';
 import image from '../../images/plant.jpg'
 import { useNavigate } from 'react-router-dom';
+import Reviewdata from '../ReviewData/Reviewdata';
+import data from '../../fakedata/data.json'
 
 const Home = () => {
     const navigate = useNavigate()
@@ -28,7 +30,15 @@ const Home = () => {
             </div>
             <div>
                 <h2 className='Creview'>Customer Reviews(3)</h2>
+            </div>
+            <div className='load-data'>
+                {
 
+                    data.slice(0, 3).map(data => <Reviewdata
+                        key={data.id}
+                        data={data}>
+                    </Reviewdata>)
+                }
             </div>
             <div>
                 <button className='btn' onClick={() => navigate('/reviews')} >Sell all review</button>

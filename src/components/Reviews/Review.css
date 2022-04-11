@@ -1,3 +1,13 @@
-.review-item {
-    margin: 30px;
+.start-review {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+
+}
+
+.see-all {
+    text-align: center;
+    color: #43b97f;
+    font-size: 40px;
+    font-weight: 800;
 }
